@@ -42,10 +42,15 @@ Steps:
     <server>
         <id>github</id>
         <username>your_github_email</username>
-        <password>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</password>
+        <password>bring_token</password>
     </server>
 </servers>
 </settings>             
 ``` 
-> 4. Replace *your_github_email* in this file on your email from the GitHub account
-> 5. Build the project.
+> 4. Replace *your_github_email* in this file on your email from the GitHub account.
+
+> 5. Contact Bring team and ask a token for downloading dependency.
+
+> 6. Replace *bring_token* on provided from Bring team.
+
+> 7. Build the project.
