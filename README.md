@@ -1,5 +1,5 @@
 # This is the preconfigured maven Web project.
-This is the preconfigured maven Web project that contains all startup configurations for Bring ApplicationContext.
+This is the preconfigured maven project that contains all startup configurations for Bring ApplicationContext.
 
 ## NOTE: THIS PROJECT IS WRITTEN ON JAVA 17
 
