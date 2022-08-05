@@ -16,7 +16,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.svydovets</groupId>
+            <groupId>com.svydovets.documented</groupId>
             <artifactId>svydovets-bring-framework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
